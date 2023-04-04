@@ -48,3 +48,18 @@ It also uses and builds on the following techniques from previous lessons:
     </td>
   </tr>
 </table>
+
+## Updated Screenshots
+<table>
+  <tr>
+    <td>
+      <img src = "https://user-images.githubusercontent.com/29761752/229701466-fd0e488c-81d1-4c5f-9890-363a6befc5fa.png"/>
+    </td>
+    <td>
+      <img src = "https://user-images.githubusercontent.com/29761752/229700975-92805691-755f-498d-aa5a-7a3c0513a871.png"/>
+    </td>
+    <td>
+      <img src = "https://user-images.githubusercontent.com/29761752/229701046-7199d233-2ffd-45b9-ae34-7f5277c0ab51.png"/>
+    </td>
+  </tr>
+</table>
