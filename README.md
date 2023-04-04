@@ -49,7 +49,18 @@ It also uses and builds on the following techniques from previous lessons:
   </tr>
 </table>
 
-## Updated Screenshots
+## Update (Added Content with Commits)
+
+# RecyclerView - SleepQualityTracker with RecyclerView app
+
+This is the toy app for Lesson 7 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
+
+## SleepQualityTracker with RecyclerView
+
+This app builds on the SleepQualityTracker you developed in Lesson 6.  In this lesson you'll learn how to display a list of results in a RecyclerView instead of a static ScrollView. You'll also learn how you can refactor your code to make it more efficient so it will be easier to maintain and test.
+
+## Screenshots
+
 <table>
   <tr>
     <td>
@@ -60,6 +71,11 @@ It also uses and builds on the following techniques from previous lessons:
     </td>
     <td>
       <img src = "https://user-images.githubusercontent.com/29761752/229701046-7199d233-2ffd-45b9-ae34-7f5277c0ab51.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://user-images.githubusercontent.com/29761752/229702109-0e1bf7cd-557b-4653-809e-072b8bafad40.png"/>
     </td>
   </tr>
 </table>
